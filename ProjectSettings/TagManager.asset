@@ -16,26 +16,26 @@ TagManager:
   - 
   - Skybox
   - Player
-  - PostProcessing
+  - THIRDPERSON_ONLY_LAYER
   - SetDressing
   - 
   - 
-  - Vehicles
-  - Navmesh
-  - Environment
+  - InteractableItem
+  - OtherAvatar
+  - OwnAvatar
   - Characters
-  - Vegetation
-  - Effects
-  - Ragdoll
-  - WaterGeometry
-  - Terrain
-  - Enemy
-  - Cameras
+  - GrabbingItem
+  - VenueLayer0
+  - VenueLayer1
+  - PostProcessing
+  - PerformerOnly
+  - Performer
+  - Audience
   - Props
   - Avoid
   - CameraCollider
   - Collider
-  - Checkpoint
+  - VenueLayer2
   - DoNotDraw
   - Level
   m_SortingLayers:
