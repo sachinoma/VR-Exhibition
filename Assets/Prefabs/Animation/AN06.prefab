@@ -31,20 +31,6 @@ MonoBehaviour:
   id:
     value: 16970796653018202677
   itemName: "\u30A2\u30A4\u30C6\u30E0"
---- !u!114 &298525152039937997
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 297341456762403944}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 557c1287071b147459bb6f001560c6e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  item: {fileID: 298525152039937586}
-  rb: {fileID: 298525152039937999}
 --- !u!114 &298525152039937996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59,6 +45,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movableItem: {fileID: 298525152039937997}
   grip: {fileID: 0}
+--- !u!114 &298525152039937997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 297341456762403944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557c1287071b147459bb6f001560c6e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 298525152039937586}
+  rb: {fileID: 298525152039937999}
 --- !u!1 &298525152300286084
 GameObject:
   m_ObjectHideFlags: 0
